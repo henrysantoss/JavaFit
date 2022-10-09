@@ -1,0 +1,8 @@
+Usando o banco na pasta Banco
+
+Usar o 
+login: admin
+senha: 1234
+
+
+Ou criar no banco de usuário, um login/senha	
