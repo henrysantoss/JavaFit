@@ -13,10 +13,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author henry
- */
+
 public class telaAluno extends javax.swing.JFrame {
     Connection con = null;
     PreparedStatement pst = null;

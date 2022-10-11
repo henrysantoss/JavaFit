@@ -16,10 +16,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author thiago
- */
+
 public class telaMatricula extends javax.swing.JFrame {
     Connection con = null;
     PreparedStatement pst = null;

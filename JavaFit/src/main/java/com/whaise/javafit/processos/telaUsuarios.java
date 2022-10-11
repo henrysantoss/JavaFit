@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package com.whaise.javafit.processos;
 
 import com.whaise.javafit.Banco;
@@ -11,10 +7,6 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author henry
- */
 public class telaUsuarios extends javax.swing.JFrame {
     Connection con = null;
     PreparedStatement pst = null;

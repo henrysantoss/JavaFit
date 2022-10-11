@@ -15,10 +15,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author thiago
- */
+
 public class telaPlanos extends javax.swing.JFrame {
 
     Connection con = null;

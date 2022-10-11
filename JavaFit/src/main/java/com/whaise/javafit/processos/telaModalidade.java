@@ -14,10 +14,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Isaqu
- */
+
 public class telaModalidade extends javax.swing.JFrame {
     Connection con = null;
     PreparedStatement pst = null;
